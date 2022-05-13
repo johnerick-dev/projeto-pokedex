@@ -1,13 +1,13 @@
 body {
     font-family: 'Poppins', sans-serif;
+    background: url(../images/paisagem-pokemon.png);
 }
 
 main {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: center;
-    background-image: linear-gradient(to right, rgb(34, 33, 33), rgb(110, 250, 245) );
+    justify-content: center;    
 }
 
 .pokedex {
